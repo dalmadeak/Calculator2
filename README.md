@@ -1,6 +1,7 @@
 # Calculator2
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.4.
+Everything is pushed to the main branch cuz I ain't got time for managing branches, standalone issues, stories, backlogs and whatnot. I'm the only one working on it for fun.
 
 ## Development server
 
