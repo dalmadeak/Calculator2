@@ -1,0 +1,18 @@
+@use 'variables' as *;
+
+:host {
+  display: block;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  height: $headerHeight;
+  display: flex;
+  align-items: center;
+  align-content: right;
+  background-color: var(--background-color2);
+}
